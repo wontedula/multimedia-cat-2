@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./main.css" rel="'stylesheet" />
+    <title>shopping app</title>
+</head>
+<body>
+    <!--navigation bar-->
+    <nav>
+        <a href="">home</a>
+        <a href="">products</a>
+        <a href="">categories</a>
+        <a href="">contact</a>
+        <a href="">cart</a>
+        <a href="">login</a>
+
+         </nav>
+         <!--hero section-->
+         <section>
+            <h1>welcome to our store</h1>
+            <p> 
+            new products coming your way
+
+            </p>
+            <button>view products</button>
+
+         </section>
+         <!--main section-->
+         <main>
+            <h2> features product</h2>
+            <div>
+
+            </div>
+            <!--product 1-->
+            <h3>products 1</h3>
+            <img scr="C:\Users\WONTE\Desktop\shopping\images\logan-weaver-lgnwvr-twl_exi8B_0-unsplash.jpg
+            alt=""
+            <P>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi quis magni itaque necessitatibus, ea adipisci debitis est provident minima alias!
+            
+
+            </P>
+            <button view product></button>
+            <div>
+                <h3>product 2</h3>
+                <img scr="C:\Users\WONTE\Desktop\shopping\images\logan-weaver-lgnwvr-twl_exi8B_0-unsplash.jpg"
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores magni provident porro rerum ipsam error velit a et odit itaque!
+
+                </p>
+                <button>view product</button>
+
+            </div>
+
+
+
+            
+         </main>
+    <!--footer-->
+    <footer>
+    <ul>
+        <li><a href="">instagram</a></li>
+        <li><a href="">facebook</a></li>
+        <li><a href="">twitter</a></li>
+        <li><a href="">youtubr</a></li>
+        
+     </ul>
+     <p>shopping app &copy; 2022</p>
+     </footer>
+
+</body>
+</html>
